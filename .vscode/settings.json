@@ -1,0 +1,5 @@
+{
+    "dotnet.defaultSolution": "First Day.sln",
+    "editor.suggest.showReferences": true,
+        "csharp.referencesCodeLens.enabled": true
+}
